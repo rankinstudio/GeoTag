@@ -4,7 +4,7 @@ A small Python 3.x program for easily importing GPS tagged .jpg photos into Goog
 
 You can select multiple images at once from the file open dialog, just hold shift when you select them.
 
-Dependencies:tkinter, xml.dom.minidom, PIL, shutil, os, ZipFile
+Dependencies: tkinter, xml.dom.minidom, PIL, shutil, os, ZipFile
 
 ![Tkinter GUI](http://rankinstudio.com/dnloads/geotagss.jpg)
 
